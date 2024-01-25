@@ -70,5 +70,3 @@ As the project evolves, future considerations may include:
 
 - **Advanced Streaming Techniques:**
   - Exploring advanced streaming techniques to further improve streaming capabilities, such as prioritized content streaming based on user interactions.
-
-By incorporating these considerations, the project aims to maintain a high-performance, scalable, and user-friendly web application architecture.
