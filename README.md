@@ -1,5 +1,36 @@
 # Acme
 
+# Welcome to the ACME Web Application!
+
+Thank you for your interest in our web application. To explore the features and functionalities, please follow the steps below:
+
+1. **Clone the Repository:**
+   - Clone the project repository from GitHub using the following command:
+     ```bash
+     git clone https://github.com/quaydrionb/acme.git
+     ```
+
+2. **Navigate to the Project Directory:**
+   - Change into the project directory:
+     ```bash
+     cd acme
+     ```
+
+3. **Install Dependencies:**
+   - Install the necessary dependencies for the project:
+     ```bash
+     npm install
+     ```
+
+4. **Run the Application:**
+   - Start the application using the development script:
+     ```bash
+     npm run dev
+     ```
+
+5. **Access the Application:**
+   - Open your web browser and navigate to the application. Typically, it should be available at `http://localhost:3000/` unless specified otherwise.
+
 ## Login Page Credentials
 
 Before exploring the project details, use the following credentials to log in to the application's login page:
