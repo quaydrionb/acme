@@ -1,4 +1,4 @@
-{"author": {"name": "Quaydrion"},
+{
   "private": true,
   "scripts": {
     "build": "next build",
