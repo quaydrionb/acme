@@ -56,17 +56,5 @@ As the project evolves, future considerations may include:
 
   - Exploring the implementation of partial prerendering to optimize the initial loading speed by rendering only essential parts of the page.
 
-- **Caching Mechanisms:**
-
-  - Implementing caching mechanisms to store frequently accessed data locally, reducing the need for repeated data fetching and improving overall system performance.
-
-- **Load Balancing:**
-
-  - Introducing load balancing strategies to distribute incoming traffic across multiple servers, ensuring optimal resource utilization and scalability.
-
-- **Progressive Web App (PWA) Features:**
-
-  - Enhancing the project with PWA features to enable offline access, push notifications, and an improved experience for users with varying network conditions.
-
 - **Advanced Streaming Techniques:**
   - Exploring advanced streaming techniques to further improve streaming capabilities, such as prioritized content streaming based on user interactions.
