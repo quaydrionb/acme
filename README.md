@@ -13,7 +13,7 @@ Thank you for your interest in our web application. To explore the features and 
 2. **Navigate to the Project Directory:**
    - Change into the project directory:
      ```bash
-     cd acme
+     cd nextjs-dashboard
      ```
 
 3. **Install Dependencies:**
