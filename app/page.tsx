@@ -17,7 +17,7 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Acme.</strong>
+            <strong>Welcome to Acme</strong>
           </p>
           <Link
             href="/login"
